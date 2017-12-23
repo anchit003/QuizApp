@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="wel">Welcome To Quiz App</string>
+    <string name="questionnum">Question 1:</string>
+    <string name="ques1">Brass gets discoloured in air because of the presence of which of the following gases in air?</string>
+    <string name="ques1a">Oxygen</string>
+    <string name="ques1b">Hydrogen Sulphide</string>
+    <string name="ques1c">Carbon dioxide</string>
+    <string name="ques1d">Nitrogen</string>
+    <string name="quesnum">Question 2:</string>
+    <string name="ques2">Which country has recently declared Yoga as sports activity?</string>
+    <string name="ques2a">India</string>
+    <string name="ques2b">Iran</string>
+    <string name="ques2c">Saudi Arabia</string>
+    <string name="ques2d">Turkmenistan</string>
+    <string name="ques3num">Question 3:</string>
+    <string name="ques3">Recently, Facebook launched food delivery service in which country?</string>
+    <string name="ques4num">Question 4:</string>
+    <string name="ques4">Which of the following educational institutes was declared the best in the overall India Rankings 2017?</string>
+    <string name="ques4a">Indian Institute of Technology, Madras, Tamil Nadu</string>
+    <string name="ques4b">Banaras Hindu University</string>
+    <string name="ques4c">Indian Institute of Management, Ahmedabad</string>
+    <string name="ques4d">Indian Institute of Science, Bangalore, Karnataka</string>
+    <string name="ques5num">Question 5:</string>
+    <string name="ques5">Which of the following integers are multiples of both 2 and 3?</string>
+    <string name="ques5a">8</string>
+    <string name="ques5b">9</string>
+    <string name="ques5c">12</string>
+    <string name="ques5d">18</string>
+    <string name="ques5e">36</string>
+</resources>
